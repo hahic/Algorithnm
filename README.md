@@ -1,7 +1,5 @@
 # Algorithnm
 
-> 약 8개의 알고리즘 사이트의 문제의 소스 파일을 저장한다. 
-
 
 Folder Structure
 -------------
